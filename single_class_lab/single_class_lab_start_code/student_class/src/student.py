@@ -8,5 +8,5 @@ class Student():
         if fav_language == "Python":
             return "I love Python"
         else:
-            return "Wrong answer"
+            return "Wrong answer!"
 
